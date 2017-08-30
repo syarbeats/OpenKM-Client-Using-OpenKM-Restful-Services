@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: user
+Class-Path: libs/commons-codec-1.9.jar libs/commons-cli-1.4.jar
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+Main-Class: com.itasoft.poc.upload_file.App
+
